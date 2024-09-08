@@ -1,7 +1,5 @@
 # Hello, Friend ✌️
-Estudante de programação com foco em desenvolvimento web, buscando constantemente novas habilidades e conhecimentos. Desde pequeno, tenho um interesse especial por arte, música e tecnologia. Para mim, é extremamente gratificante poder unir essas áreas para criar soluções digitais que impactem positivamente a experiência das pessoas.
-
-Entusiasta de corrida e apaixonado por atividades físicas, acredito que a disciplina e a persistência são fundamentais, tanto no esporte quanto na minha jornada no mundo da programação.
+Estudante de programação com foco em desenvolvimento web, buscando constantemente novas habilidades e conhecimentos. Desde pequeno, tenho um interesse especial por arte, música e tecnologia. Para mim, é extremamente gratificante poder unir essas áreas para criar soluções digitais que impactem positivamente a experiência das pessoas. 
 
 Estou aberto a novas oportunidades, networking e colaboração em projetos inovadores!
 
